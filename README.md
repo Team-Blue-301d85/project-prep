@@ -19,6 +19,8 @@ Brady self-assesses that he is pretty strong with JavaScript, is okay with HTML,
 
 ## Ben
 
+Ben self enjoys and is strong with writing Javascript and building backend frameworks implementing express and node.js. He is also familiar with React and is able to build front end user interfaces implementing component architechtures. He has a functional level of skill with CSS and can figure it out but prefers to stay more in the logic side than the display side. Constructing websites with powerful API user interfaces brings him much joy and satisfaction.
+
 ## Elizabeth
 
 Elizabeth has a fundamental understanding of CSS, HTML, and Javascript. Elizabeth's strengths include communication, detail oriented, and organization.
