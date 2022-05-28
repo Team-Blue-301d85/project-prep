@@ -17,6 +17,8 @@ Brady self-assesses that he is pretty strong with JavaScript, is okay with HTML,
 
 ## Guy
 
+Guy's strengths include Handling ambiguity, integrity, and project execution. He can use his experience in project management to help focus workflow and organize tasks, and can also try to help identify actions from ambiguous information. While he feels pretty grounded in the concepts behind JavaScript and React, he is working to develop a better imagination for how to use these tools to solve complex problems.
+
 ## Ben
 
 Ben self enjoys and is strong with writing Javascript and building backend frameworks implementing express and node.js. He is also familiar with React and is able to build front end user interfaces implementing component architechtures. He has a functional level of skill with CSS and can figure it out but prefers to stay more in the logic side than the display side. Constructing websites with powerful API user interfaces brings him much joy and satisfaction.
