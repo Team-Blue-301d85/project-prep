@@ -9,6 +9,20 @@ This repository holds everything decided upon by the authors during the project 
 * Ben Small
 * Elizabeth Hammes
 
+## Schema
+
+```
+termSchema {
+  name: { type: String, required: true },
+  definition: { type: String, required: true },
+  documentation_url: { type: String, required: false },
+  category: { type: String, required: false },
+  user_email: { type: String, required: true }
+}
+```
+
+# Team Agreement
+
 ## Cooperation Plan
 
 ## Brady
@@ -79,3 +93,15 @@ Every morning after the stand-up with the instructor, the team will have its own
   * each day's work will be a branch off of the `dev` branch
     * from `dev`: `git checkout -b` <`that day's feature`>
 * Merges to `dev` will, in general, be performed around lunch time every day and before logging off for the night
+
+## Wireframe
+
+![Wireframe](img/Final_Project_Wireframe.png)
+
+## WRRC
+
+![Wireframe](img/Final_Project_WRRC.png)
+
+## Domain Model
+
+![Wireframe](img/Final_Project_Domain_Model.png)
