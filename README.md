@@ -5,20 +5,24 @@ This repository holds everything decided upon by the authors during the project 
 ## Authors
 
 * Brady Davenport
-  * [GitHub](https://github.com/bradydavenport) 
+
+  * [GitHub](https://github.com/bradydavenport)
   * [LinkedIn](https://www.linkedin.com/in/bradydavenport/)
 
-* Guy Farley 
-  * [GitHub](https://github.com/GuyFarley) 
+* Guy Farley
+
+  * [GitHub](https://github.com/GuyFarley)
   * [LinkedIn](https://www.linkedin.com/in/guyefarley/)
 
-* Ben Small 
-  * [GitHub](https://github.com/BenjaminSmall94)
-  * [LinkedIn](https://www.linkedin.com/in/bjgsmall/)
-
 * Elizabeth Hammes
+
   * [GitHub](https://github.com/ehammes)
   * [LinkedIn](https://www.linkedin.com/in/elizabethhammes/)
+
+* Ben Small
+
+  * [GitHub](https://github.com/BenjaminSmall94)
+  * [LinkedIn](https://www.linkedin.com/in/bjgsmall/)
 
 ## Schema
 
